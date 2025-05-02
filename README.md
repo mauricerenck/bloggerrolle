@@ -2,7 +2,7 @@
 
 ![GitHub release](https://img.shields.io/github/release/mauricerenck/bloggerrolle.svg?maxAge=1800) ![License](https://img.shields.io/github/license/mashape/apistatus.svg) ![Kirby Version](https://img.shields.io/badge/Kirby-4%2B-black.svg)
 
----
+![Header](/assets/bloggerrolle-header.png)
 
 This Kirby plugin will ping bloggerrolle.de and/or uberblogr.de whenever you publish a page.
 
