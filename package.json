@@ -1,0 +1,24 @@
+{
+  "name": "bloggerrolle",
+  "version": "1.0.0",
+  "description": "This Kirby plugin will ping bloggerrolle.de and/or uberblogr.de whenever you publish a page.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauricerenck/bloggerrolle.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauricerenck/bloggerrolle/issues"
+  },
+  "homepage": "https://github.com/mauricerenck/bloggerrolle#readme",
+  "dependencies": {
+    "semver": "^7.7.1"
+  },
+  "devDependencies": {
+    "@ambimax/semantic-release-composer": "github:ambimax/semantic-release-composer",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1"
+  }
+}
